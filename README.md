@@ -1,2 +1,19 @@
-# decodelabs_tasks
-DecodeLabs AI Internship Tasks - Project 1, Project 2 and Project 3
+# DecodeLabs AI Internship Tasks
+
+This repository contains the submitted tasks for the DecodeLabs AI Internship.
+
+## Projects
+
+### Project 1: Rule-Based AI Chatbot
+- chatbot.py
+- intents.json
+
+### Project 2: Data Classification Using AI
+- placement_prediction.py
+- placement_data.csv
+
+### Project 3: AI Recommendation Logic
+- recommendation_system.py
+
+## Author
+Pradumn Patidar
