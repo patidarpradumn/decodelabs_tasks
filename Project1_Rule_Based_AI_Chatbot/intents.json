@@ -1,0 +1,59 @@
+{
+  "greeting": {
+    "patterns": [
+      "hello",
+      "hi",
+      "hey",
+      "good morning",
+      "namaste"
+    ],
+    "response": "Hello! I am your Rule-Based AI Chatbot. How can I help you?"
+  },
+  "ai": {
+    "patterns": [
+      "ai",
+      "artificial intelligence",
+      "what is ai"
+    ],
+    "response": "Artificial Intelligence allows machines to perform tasks that normally require human intelligence."
+  },
+  "python": {
+    "patterns": [
+      "python",
+      "learn python",
+      "python help"
+    ],
+    "response": "Python is widely used in AI, machine learning, data analysis, and automation."
+  },
+  "internship": {
+    "patterns": [
+      "internship",
+      "training",
+      "industrial training"
+    ],
+    "response": "Industrial training helps students gain practical knowledge through hands-on projects."
+  },
+  "project": {
+    "patterns": [
+      "project",
+      "github",
+      "task"
+    ],
+    "response": "A good project should include working code, documentation, README file, and GitHub repository."
+  },
+  "resume": {
+    "patterns": [
+      "resume",
+      "cv",
+      "linkedin"
+    ],
+    "response": "Add your skills, projects, certificates, GitHub links, and internship experience in your resume."
+  },
+  "thanks": {
+    "patterns": [
+      "thanks",
+      "thank you"
+    ],
+    "response": "You're welcome! Keep learning and building."
+  }
+}
